@@ -2,7 +2,7 @@
 
 This folder contains screenshots related to the cybersecurity lab setup.
 
-## Screenshots Included
+## Included Screenshots
 
 - Kali Linux Installation
 - Metasploitable2 Setup
@@ -10,4 +10,4 @@ This folder contains screenshots related to the cybersecurity lab setup.
 - Wireshark Packet Capture
 - Nmap Scan Results
 
-Upload all screenshots in this folder for documentation purposes.
+All screenshots are stored here for documentation and reporting purposes.
