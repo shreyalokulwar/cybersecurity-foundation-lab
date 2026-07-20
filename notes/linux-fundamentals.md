@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Linux is an open-source operating system widely used in cybersecurity and server environments.
+Linux is an open-source operating system commonly used in cybersecurity and server environments.
 
 ## File System Navigation
 
@@ -12,7 +12,7 @@ Linux is an open-source operating system widely used in cybersecurity and server
 | ls | List files and folders |
 | cd | Change directory |
 
-### Examples
+Examples:
 
 ```bash
 pwd
@@ -22,15 +22,13 @@ cd Documents
 
 ## File Permissions
 
-Linux permissions are represented as:
+Permission Types:
 
-```text
-r = Read
-w = Write
-x = Execute
-```
+- r = Read
+- w = Write
+- x = Execute
 
-### Commands
+Commands:
 
 ```bash
 chmod 755 file.txt
@@ -39,19 +37,19 @@ chown user file.txt
 
 ## Package Management
 
-### Update Packages
+Update Package List:
 
 ```bash
 sudo apt update
 ```
 
-### Upgrade Packages
+Upgrade Packages:
 
 ```bash
 sudo apt upgrade
 ```
 
-### Install Package
+Install Package:
 
 ```bash
 sudo apt install nmap
@@ -69,4 +67,4 @@ traceroute google.com
 
 ## Conclusion
 
-Linux command-line skills are essential for system administration and cybersecurity tasks.
+Linux skills are essential for system administration and penetration testing.
